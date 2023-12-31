@@ -14,14 +14,7 @@
 <img src='https://img.shields.io/badge/-and_other_tools-20232A?style=for-the-badge'>
 </div>
 <br />
-<div align='center'>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devhoncharenko&show_icons=true&theme=radical" />
-   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devhoncharenko&theme=radical&layout=compact" />
-</div>
-<br>
-<div align='center'>
-  <a href="https://u8views.com/github/devhoncharenko"><img src="https://u8views.com/api/v1/github/profiles/155084194/views/day-week-month-total-count.svg"></a>
-</div>
+
 
 <br />
 <div align='center'>
